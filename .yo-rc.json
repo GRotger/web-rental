@@ -1,0 +1,15 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "web-rental",
+    "username": "grotger",
+    "userEmail": "grotger93@gmail.com",
+    "stack": "client",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "grotger",
+    "client": "ng2",
+    "stylePreprocessor": "sass",
+    "server": "",
+    "secure": true,
+    "testsSeparated": true
+  }
+}
